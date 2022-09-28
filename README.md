@@ -125,7 +125,7 @@ And it's just a proof of concept!
 
 ## The General Example
 
-See [2d-convolution.pdf](examples/2d-convolution.pdf)
+See [2d-convolution.ipynb](examples/2d-convolution.ipynb)
 
 ## License
 
