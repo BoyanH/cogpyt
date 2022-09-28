@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+cogpyt-venv/
+cogpyt.egg-info/
+build/
+dist/
+.ipynb_checkpoints
